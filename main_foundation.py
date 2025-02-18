@@ -69,5 +69,5 @@ plt.grid(True, which='both', linestyle=':')
 # plt.show()
 
 # %% Change the directory and save the figure
-os.chdir("../1.0_Figures/")
+os.chdir("./figures/")
 fig.savefig('foundation_Pfbounds.pdf')

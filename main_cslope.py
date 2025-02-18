@@ -192,5 +192,5 @@ plt.tight_layout()
 plt.show()
 
 # %% Change the directory and save the figure
-# os.chdir("../1.0_Figures/")
+# os.chdir("./Figures/")
 # fig1.savefig('SuS_evolution.pdf')
